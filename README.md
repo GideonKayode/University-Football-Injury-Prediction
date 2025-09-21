@@ -121,8 +121,7 @@ This dataset uniquely bridges **sports science** and **machine learning**, provi
 4. Run cells sequentially to reproduce the analysis.
 
 ---
-🤝 Contributing
-Contributions are welcome!
+🤝 Contributions are welcome!
 - Fork the repo
 - Create a new branch (git checkout -b feature-name)
 - Commit changes (git commit -m "Add feature")
